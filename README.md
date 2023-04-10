@@ -16,6 +16,7 @@
     <br>
     <a href='http://cookiesservices.win'>
         <img src='https://discord.c99.nl/widget/theme-4/844025558580199425.png'/>
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=84b&show_icons=true&theme=radical)
 </p> 
 
 
