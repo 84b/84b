@@ -18,7 +18,7 @@
         <img src='https://discord.c99.nl/widget/theme-4/844025558580199425.png'/>
 </p> 
 <p align="middle">
-    <img src='https://github-readme-stats.vercel.app/api?username=84b&show_icons=true&theme=radical'>
+    <img src='https://github-readme-stats.vercel.app/api?username=84b&show_icons=true&theme=dark'>
     <br>
 </p>
 
